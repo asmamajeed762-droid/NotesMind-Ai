@@ -9,7 +9,7 @@ const genAI = new GoogleGenerativeAI(
 export const generateSummary = async (text) => {
 
   const model = genAI.getGenerativeModel({
-    model: "gemini-1.5-flash-latest",
+    model: "gemini-1.5-flash",
   });
 
 
