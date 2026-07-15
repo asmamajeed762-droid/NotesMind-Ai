@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/asmamajeed762-droid/NotesMind-Ai/main/notesmind-ai-banner.gif" alt="NotesMind AI Banner">
-
+  <img src="https://raw.githubusercontent.com/asmamajeed762-droid/NotesMind-Ai/main/notesmind-ai-banner.jpg" alt="NotesMind AI Banner" width="100%">
 </div>
 
 <br>
