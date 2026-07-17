@@ -106,3 +106,10 @@ NotesMind-Ai
 ├── public
 ├── package.json
 └── README.md
+## 📸 Screenshots
+
+### Home Page
+![Home Page](images/home.png)
+
+### Dashboard
+![Dashboard](images/dashboard.png)
