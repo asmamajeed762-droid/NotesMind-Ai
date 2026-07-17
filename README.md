@@ -109,7 +109,7 @@ NotesMind-Ai
 ## 📸 Screenshots
 
 ### Home Page
-![Home](home.png).jpg
+![Home](home.png)
 
 ### Dashboard
-![Dashboard](dashboard.png).jpg
+![Dashboard](dashboard.png)
